@@ -1,6 +1,2 @@
-print('this is a new file !')
-print('this is added online gitlab')
-print('this is dev-branch1 @18:00')
-print('this is master-branch1 @18:40')
-print('this is added from git-dev @18:00')
-print('this is added from git-dev @10:30')
+print('this is a file in branch/dev-1 !')
+
